@@ -1,4 +1,4 @@
 # new-project-
 This is my first git repository
 <br>
-Author - Prachi Jha
+Author - Prachi Jha IET LUCKNOW
